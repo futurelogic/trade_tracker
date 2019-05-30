@@ -1,0 +1,379 @@
+EXAMPLE TRADE
+============
+
+-------------------------------------------------------------------------------------------------------------------
+Below is an example trade which Gary provided on the FB page. Press <SPACE BAR> to page down through the trade doc.
+-------------------------------------------------------------------------------------------------------------------
+
+
+Trading level: RTP
+Trade opened: 2019-03-20
+Trade closed: 2019-03-27
+Trade type: put
+
+
+Legs you have this trade open in:
+1. trade leg
+
+
+The following indicators were present on $INDU's 1st 233 candle on 2019-03-20:
+Christmas Cross
+SRSI
+MACD
+
+
+The following indicators were present on Hum's 1st 233 candle on 2019-03-20:
+Christmas Cross
+SRSI
+MACD
+Directional Movement
+
+
+Earnings
+========
+Previous earnings: 2019-02-06
+Current earnings: 2019-05-08
+Current earnings beat previous.
+
+
+Dog, Elephant, Herd
+===================
+1. Dog is down
+2. Elephant is sideways
+3. Herd is down
+
+
+Weekly Candle
+=============
+The color of the weekly candle will be red
+
+
+Predictive paragraph
+====================
+1. will pause at 21/987 on the 233, before declining to pause at a purple line drawn on the daily at 2019-01-03 candle. might have to exit here.
+2. could continue down to the 233 bbb and pause, might have to exit here.
+3. may expand the 233 bbb and fall to the rising 610 on the daily and go sideways. may have to exit here.
+4. could continue down the declining bbb on the 233 until reaching daily bbb and a purple line on the weekly at 2018/03/18 candle and bounce. maybe exit here.
+
+
+
+
+General:
+=========
+3. TTZ
+4. Warning Season
+5. Year ends in 9
+6. Mid-March
+7. Has a good trade look
+8. March 15-30 is 50/50 call to put bias
+9. $2.50 strikes
+10. Relatively small spread
+11. Options chart supportive
+12. Monthly option expires in 4 weeks
+13. Option has high probability of getting in the money before potentials sideways
+14. Markets have been rising for 2 weeks
+15. $VIX and $VXN 233 charts have just begun to rise after a decline
+16. Both husband and wife agree it's a trade
+17. Not the only trade setup on this candle
+18. Emotions assessment - Calm
+19. Close to end of first quarter
+20. Healthcare stock up
+21. Recipe not setup
+22. Bible entry says to watch for a decline mid to late March
+
+
+Hum 233:
+=========
+23. Indicators in sync with all red crossing green, going down
+24. Half up AW previous candle
+25. Majority of MA lines flat or declining above candles
+26. Previous candle at rising TBB
+27. Previous candle at declining 55, immediately above
+28. Declining 144 near above
+29. Flattening 89 near above
+30. 89 crossed declining 144, two candles previous
+31. Rising 610 far above
+32. Declining 233 far above
+33. Declining 377 far above
+34. TBB just flattened after short rise
+35. Half of current red candle body below declining 34
+36. Current candle closed on laminated 21/987
+37. 21 falat after decline immediately below current candle
+38. 987 rising immediately below current candle
+39. BBB flat, below current candle, near
+40. Both SRSI have been above 80 about 1 week
+41. Red SRSI hooked down after rise
+42. Green SRSI sideways
+43. HR on previous candle
+44. Historgram just declined to top orange line
+45. Red MACD just hooked down after rise
+46. Green MACD rising
+47. DM lines coming together from far apart
+48. DM lines last crossed 8 days ago
+49. Red DM coming from top purple line
+50. Green DM coming from yellow line
+
+
+Hum Daily:
+===========
+51. Indicators are in sync near mid-scale
+52. TBB declining far above
+53. 144 declining far above
+54. 233 flat after rise far above
+55. 89 declining, above, near
+56. 34 declining, above, near
+57. 55 flat after decline, above, near
+58. 377 rising, above, near
+59. 34/55/377 stacked above, near
+60. 21 decliing at top of candle body
+61. Purple line drawn (2019-03-01) below, near
+62. 610 rising, below, near
+63. BBB flat after decline, below, near
+64. Both SRSI lines near 50
+65. Red SRSI line above green
+66. Red SRSI just flattened after rise
+67. Green SRSI rising
+68. Both MACD lines near purple floor
+69. Histogram just above top orange line
+70. Red MACD just hooked down after rise
+71. Green MACD rising
+72. Both DM lines inside noise
+73. Red DM declining
+74. Green DM rising
+
+
+Hum Weekly:
+============
+75. Indicators in sync
+76. TBB declining very far above
+77. 34 declining, well above
+78. 55 rising, well above
+79. 21 declining, above, near
+80. 21 fell and crossed 55, 2 candles ago
+81. 89 rising immediately above
+82. Purple line drawn (2018-03-18) below, near
+83. BBB declining, below, near
+84. 144 rising well below
+85. 233 rising very far below
+86. Red CC below green
+87. Redd CC just flattening after a decline
+88. Green CC just turning down after a rise
+89. CC lines far apart
+90. Both SRSI lines near 20
+91. Red SRSI below green
+92. Both SRSI pointing down
+93. SRSI lines wide apart
+94. Histogram flat at bottom orange line
+95. Red MACD below yellow line
+96. Red MACD below green
+97. Both MACD pointing down
+98. MACD lines well apart and smooth
+99. DM lines last crossed mid Feb
+100. Green DM coming down from top purple line
+101. Red DM fired current candle
+102. DM lines still far apart
+
+
+Hum Monthly:
+=============
+103. Indicators in sync and smooth
+104. Candle body touching rising 21 just above
+105. Declining TBB very far above
+106. 34 rising well below
+107. BBB rising very far below
+108. 55 rising very far below
+109. 89 rising very far below
+110. 144 rising very far below
+111. 233 rising very far below
+112. 377 rising very far below
+113. No data for 610 or 987
+114. SRSI red line below 20 and flattening
+115. SRSI green line just above 20 and declining
+116. MACD at upper yellow line
+117. MACD declining and wide
+118. Historgram below lower orange line
+119. Historgram declining
+120. DM inside noise lines
+121. DM red line declining
+122. DM green line rising
+
+
+Hum Quarterly:
+===============
+123. Rising TBB very far above
+124. Rising 21 very far below
+125. Rising 34 very far below
+126. Rising 55 very far below
+127. Rising BBB very far below
+128. Rising 89 very far below
+129. Rising 144 very far below
+130. No data for remaining MA lines
+131. SRSI wide and declining
+132. SRSI red line at 35
+133. SRSI green line still above 80
+134. MACD high on scale
+135. MACD red line hooked down
+136. HR down previous candle
+137. DM fired to decline previous candle
+138. DM red line declining
+
+
+$INDU 233:
+===========
+139. All indicators in sync, with red line declining and just crossing green
+140. Full up AW two candles ago
+141. Top of previous candle body near flat TBB
+142. TBB immediately above
+143. Bottom of current candle closed on stacked 21/34/55 lines
+144. 34 flat on current candle after rising
+145. 55 flat on current candle bottom after rising
+146. 21 flat after slight decline immediately below candle
+147. Rising 89 below, near
+148. Flat BBB below, near
+149. Rising 377 well below
+150. Declining 233 well below
+151. Rising 144 well below
+152. Rising 987 very far below
+153. Rising 610 very far below
+154. Red SRSI line just below 80
+155. Green SRSI near 90
+156. MACD lines just above mid level
+157. Historgram declining
+158. Histogram mid level
+159. DM lines crossed from far apart
+160. Red DM declining from upper purple line
+161. Green DM fired two candles ago
+
+
+$INDU Daily:
+=============
+162. All indicators in sync
+163. Indicators near mid range
+164. Recipe not complete
+165. Red CC line declining, crossing green
+166. Declining TBB above, near
+167. Flat 21 after a rise, at current candle
+168. Rising 34 immediately below
+169. Declining BBB after rise, below, near
+170. Bands are narrow
+171. Flat 144 below, near
+172. Rising 233 below, near
+173. Rising 55 below, near
+174. Rising 55 about to cross 233 below, near
+175. Declining 89 well below
+176. Rising 377 well below
+177. Rising 610 very far below
+178. Both SRSI near 40
+179. Red SRSI just hooked down
+180. Both MACD lines within purple lines
+181. Red MACD just turned down slightly to cross green
+182. Histogram flat
+183. Red DM line turned down from top noise line, previous candle
+184. Both DM lines currently within noise
+
+
+$INDU Weekly:
+==============
+185. Rising TBB well above
+186. Indicators high
+187. Going sideways 3 candles
+188. Red CC line just hooked up immediately below and parallel to green
+189. Rising 34 below, near
+190. Flat 55 after rise, below, near
+191. 21 just started rising, below, near
+192. Rising 89 below, near
+193. Rising BBB very far below
+194. Rising 144 very far below
+195. Rising 233 very far below
+196. Rising 377 very far below
+197. Rising 610 very far below
+198. Rising 987 very far below
+199. Both SRSI lines above 80
+200. Red SRSI declining, about to cross green
+201. MACD lines narrowing
+202. Red MACD above green
+203. MACD near upper purple line
+204. Histogram declining
+205. Histogram at top orange line
+206. Both DM lines in noise
+207. Red DM just hooked up
+208. Green DM turned down two candles ago
+209. Last DM cross was mid Jan
+
+
+$VIX 233:
+==========
+210. Dog is up
+
+
+$VIX Daily:
+============
+211. Elephant is sideways
+
+
+$VIX Weekly:
+=============
+212. Herd is sideways
+
+
+$VXN 233:
+==========
+213. Dog is up
+
+
+$VXN Daily:
+============
+214. Elephant is up
+
+
+$VXN Weekly:
+=============
+215. Herd is standing still
+
+
+$SPX 233:
+==========
+216. All indicators in sync
+217. Put SLI present with CC, SRSI, and MACD
+218. Indicators high on scale
+219. 21 and 34 laminated and rising immediately below
+220. All MA lines below candles
+221. Both SRSI above 80
+222. MACD lines near upper yellow line
+223. Histogram declining just below zero
+224. DM lines coming together from far apart
+225. LASRT DM cross 2019-03-11
+226. Green DM fired two candles ago
+
+
+$SPX Daily:
+============
+227. Indicators high on scale
+228. All red lines above green
+229. Bearish divergence on SRSI
+230. Bearish divergence on MACD
+231. Histogram declining
+
+
+$SPX Weekly:
+=============
+232. Direction is up
+233. All red lines above green
+234. Both SRSI above 80
+235. Histogram flat two candles ago
+236. DM lines in noise
+
+
+$W5000 233:
+============
+237. Possibly shorter than normal trade length
+
+
+$W5000 Daily:
+==============
+238. None
+
+
+$W5000 Weekly:
+===============
+239. None
