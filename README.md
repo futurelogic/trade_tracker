@@ -1,8 +1,5 @@
 # Trade Tracker
 
-Trade Document Builder Help
-===========================
-
 Welcome to the trade document builder. This app will help you build your trade documents when evaluating trades.
 Press <SPACE BAR> to scroll through this help document.
 
