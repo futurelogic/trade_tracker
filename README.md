@@ -2,7 +2,7 @@
 
 Welcome to the trade document builder. This app will help you build your trade documents when evaluating trades.
 
-You must use a flag to specify what you would like to do...
+When initializing the app, you must use a flag to specify what you would like to do...
 
 -n = Create a new trade doc
 -h = Print this help file to screen
