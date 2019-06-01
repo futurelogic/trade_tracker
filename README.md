@@ -1,6 +1,17 @@
 # Trade Tracker
 
-Welcome to the trade document builder. This app will help you build your trade documents when evaluating trades and deciding whether to enter.
+Trade Document Builder Help
+===========================
+
+Welcome to the trade document builder. This app will help you build your trade documents when evaluating trades.
+Press <SPACE BAR> to scroll through this help document.
+
+You must use a flag to specify what you would like to do...
+
+-n = Create a new trade doc
+-h = Print this help file to screen
+-p = Print example trade to the screen
+-e = Edit Trade (used to add the date the trade was closed)
 
 This app is built for all skill levels, S1 all the way to RTP. The app will adjust it's questions based on the level you pick in the beginning.
 
