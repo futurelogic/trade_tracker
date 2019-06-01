@@ -391,3 +391,49 @@ def get_acct_info():
             header = "* Your input was not recognized... Please input 'r' for real or 'p' for paper *"
             build.build_header(header)
             leg_info = None
+
+
+def get_which_support():
+    user_input = None
+    while user_input == None:
+        user_input = str(input("Is your support coming from; [1]-377, [2]-Daily? ")).strip()
+        if user_input == "":
+            header = "Your input was blank, please select [1] for the 377 or [2] for the daily"
+            build.build_header(header)
+            user_input = None
+        elif user_input == "1":
+            return "377"
+        elif user_input == "2":
+            return "Daily"
+        else:
+            header = "* Your input was not recognized, please enter [1] for 377 or [2] for Daily *"
+            build.build_header(header)
+            user_input = None
+
+
+def get_support_items(support_type):
+    support_items = []
+    user_input = None
+    count = 1
+    print("List the support items from the {} chart below ([x] to move on):\n".format(support_type))
+    while user_input != "x":
+        user_input = input("{}. ".format(count))
+        if user_input == "":
+            header = "Your input was blank, please enter a support item or type [x] to move on"
+            build.build_header(header)
+            user_input = None
+        else:
+            support_items.append(user_input)
+            count += 1
+    support_items.pop(-1)
+    build.add_headspace()
+    return support_items
+
+
+def get_support():
+    build.add_headspace()
+    which_support = get_which_support()
+    small_support = get_support_items(which_support)
+    large_support = get_support_items("Weekly")
+    return [small_support, large_support, which_support]
+

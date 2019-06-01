@@ -144,7 +144,7 @@ def run_level_test(level, market, symbol):
         considerations = None
         return [weekly_candle, pp, considerations]
     elif level == "RTP":
-        count = 4
+        count = 1
         weekly_candle = get_input.get_weekly_candle()
         pp = get_input.get_pp()
         considerations = build_considerations(symbol[0], market[0], count)

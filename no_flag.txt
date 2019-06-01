@@ -1,0 +1,16 @@
+You have called the program without a flag...
+
+Please run with one of the following flags:
+
+-n = New file, start a new trade doc
+-h = Help file
+-p = Print example trade to screen (Gary's example from FB)
+-e = Edit Trade, used to add close date after trade doc is built
+
+Example:
+
+python3 program.py -n
+
+or 
+
+python3 program.py -h
