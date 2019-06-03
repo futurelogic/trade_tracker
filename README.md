@@ -11,10 +11,11 @@ python3 program.py -n
 
 When initializing the app, you must use a flag to specify what you would like to do...
 
-Create new trade doc
-View help file
-Print example trade to screen
-Edit existing trade to add close date
+
+-n = Create a new trade doc  
+-h = Print this help file to screen  
+-p = Print example trade to the screen  
+-e = Edit Trade (used to add the date the trade was closed)  
 
 This app is built for all skill levels, S1 all the way to RTP. The app will adjust it's questions based on the level you pick in the beginning.
 
