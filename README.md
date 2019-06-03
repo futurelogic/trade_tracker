@@ -11,8 +11,8 @@ python3 program.py -n
 
 When initializing the app, you must use a flag to specify what you would like to do...
 
--n = Create a new trade doc
--h = Print this help file to screen
+-n = Create a new trade doc\n
+-h = Print this help file to screen\n
 -p = Print example trade to the screen
 -e = Edit Trade (used to add the date the trade was closed)
 
