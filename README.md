@@ -6,8 +6,8 @@ To run the app, execute program.py
 
 Ex:
 
-cd ~/trade_tracker
-python3 program.py -n
+cd ~/trade_tracker  
+python3 program.py -n  
 
 When initializing the app, you must use a flag to specify what you would like to do...
 
