@@ -1,8 +1,14 @@
 import get_input
-import output
 import datetime
 import os
 import getpass
+from tempfile import mkstemp
+from shutil import move
+from os import fdopen, remove
+
+
+def cls():
+    os.system('clear')
 
 
 # Add space header
@@ -24,7 +30,7 @@ def build_first_head():
 
 
 def begin():
-    output.cls()
+    cls()
     header = build_first_head()
     print(header[0])
     print(header[1])
@@ -194,6 +200,11 @@ def build_path(user, date):
     return path
 
 
+def build_edit_path(file, home):
+    path = os.path.join(home, file)
+    return path
+
+
 def build_date():
     date = get_date()
     date = date_sort(date)
@@ -201,3 +212,17 @@ def build_date():
     return date
 
 
+def replace(path, pattern, subst):
+    #Create temp file
+    fh, abs_path = mkstemp()
+    #Search for string, replace
+    with fdopen(fh,'w') as new_file:
+        with open(path) as old_file:
+            for line in old_file:
+                new_file.write(line.replace(pattern, subst))
+    #Remove original file
+    remove(path)
+    #Store modified contents
+    move(abs_path, path)
+    #Print new output
+    os.system('more {}'.format(path))

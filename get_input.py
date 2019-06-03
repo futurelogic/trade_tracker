@@ -441,4 +441,3 @@ def get_support():
     large_support = get_support_items("Weekly")
     return [small_support, large_support, which_support]
 
-

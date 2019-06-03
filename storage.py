@@ -1,5 +1,4 @@
 import build
-import output
 from pathlib import Path
 from os import system
 
@@ -249,6 +248,11 @@ def print_file(path):
     system('more {}'.format(path))
 
 
+def write_edit(trade_doc, path):
+    for line in trade_doc:
+        write(path, line)
+
+
 
 def write_results(level, market, symbol, support, earnings, trade_timing, trade_type, acct_info, deh, trade_filters):
     path = get_path()
@@ -264,8 +268,7 @@ def write_results(level, market, symbol, support, earnings, trade_timing, trade_
     write_deh(deh, path)
     write_legs(acct_info, path)
     write_filters(level, trade_filters, symbol, market, path)
-    output.cls()
+    build.cls()
     build.build_big_space()
     print_pre_output(path)
     print_file(path)
-
