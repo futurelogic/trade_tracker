@@ -113,6 +113,10 @@ def get_other_details(type):
         print()
         date = input("What date did previous earnings fall on [YYYY-MM-DD]?\n").strip()
         print()
+    if type == "closed":
+        print()
+        date = input("What date did you close the trade [YYYY-MM-DD]?\n").strip()
+        print()
     try:
         datetime.datetime.strptime(date, '%Y-%m-%d')
     except ValueError:
@@ -423,7 +427,7 @@ def get_support_items(support_type):
             build.build_header(header)
             user_input = None
         else:
-            support_items.append(user_input)
+            support_items.append("{}. {}".format(count, user_input))
             count += 1
     support_items.pop(-1)
     build.add_headspace()
