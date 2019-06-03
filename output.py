@@ -196,3 +196,4 @@ def print_results(level, market, symbol, earnings, trade_timing, trade_type, acc
 
     return [store_level, store_trade, store_trade_type, store_legs, store_market, store_symbol,
             store_earnings]
+

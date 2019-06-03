@@ -268,3 +268,4 @@ def write_results(level, market, symbol, support, earnings, trade_timing, trade_
     build.build_big_space()
     print_pre_output(path)
     print_file(path)
+
