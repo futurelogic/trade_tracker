@@ -1,6 +1,13 @@
 # Trade Tracker
 
-Welcome to the trade document builder. This app will help you build your trade documents when evaluating trades.
+Welcome to the trade document builder. This app will help you build your trade documents when evaluating trades. This app is built with Python 3, as such having Python 3 installed is a prerequisite.
+
+To run the app, execute program.py
+
+Ex:
+
+cd ~/trade_tracker
+python3 program.py -n
 
 When initializing the app, you must use a flag to specify what you would like to do...
 
