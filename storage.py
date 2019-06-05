@@ -1,5 +1,8 @@
+#!/usr/local/bin/python3
+
 import build
 from pathlib import Path
+import os
 from os import system
 
 def write(path, data):
@@ -8,10 +11,28 @@ def write(path, data):
 
 def get_path():
     user = build.get_user()
-    date = build.build_date()
-    path = build.build_path(user, date)
-    Path(path).touch()
+    folder = 'trade_docs'
+    parent = '/Users'
+    path = os.path.join(parent, user, folder)
     return path
+
+
+def build_folder(path):
+    if not os.path.exists(path) or not os.path.isdir(path):
+        os.mkdir(path)
+        print("Folder {} created".format(path))
+    else:
+        print("Folder {} already exists".format(path))
+
+
+def build_file(path):
+    date = build.build_date()
+    print(date)
+    ext = '_trade_doc.txt'
+    filename = date + ext
+    fullpath = os.path.join(path, filename)
+    Path(fullpath).touch()
+    return fullpath
 
 
 def write_header(path):
@@ -256,19 +277,21 @@ def write_edit(trade_doc, path):
 
 def write_results(level, market, symbol, support, earnings, trade_timing, trade_type, acct_info, deh, trade_filters):
     path = get_path()
-    write_header(path)
-    write_space(path)
-    write_level(level, path)
-    write_trade(trade_timing, path)
-    write_trade_type(trade_type, path)
-    write_sym_market(market, path)
-    write_sym_market(symbol, path)
-    write_support(support, path)
-    write_earnings(earnings, path)
-    write_deh(deh, path)
-    write_legs(acct_info, path)
-    write_filters(level, trade_filters, symbol, market, path)
+    build_folder(path)
+    fullpath = build_file(path)
+    write_header(fullpath)
+    write_space(fullpath)
+    write_level(level, fullpath)
+    write_trade(trade_timing, fullpath)
+    write_trade_type(trade_type, fullpath)
+    write_sym_market(market, fullpath)
+    write_sym_market(symbol, fullpath)
+    write_support(support, fullpath)
+    write_earnings(earnings, fullpath)
+    write_deh(deh, fullpath)
+    write_legs(acct_info, fullpath)
+    write_filters(level, trade_filters, symbol, market, fullpath)
     build.cls()
     build.build_big_space()
-    print_pre_output(path)
-    print_file(path)
+    print_pre_output(fullpath)
+    print_file(fullpath)

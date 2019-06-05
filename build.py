@@ -1,3 +1,5 @@
+#!/usr/local/bin/python3
+
 import get_input
 import datetime
 import os
